@@ -1,0 +1,5 @@
+print("Введите дату: ")
+date = input()
+print("Введите задачу: ")
+todo = input()
+print(date, todo)
